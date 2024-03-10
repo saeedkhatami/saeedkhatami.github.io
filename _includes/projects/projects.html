@@ -1,0 +1,33 @@
+<div style="background-color: var(--tf-projects-bg-color)" class="bg-gradient py-3" id="projects">
+  <div class="container">
+    <div class="row mb-3">
+      <div class="col-md-6">
+        <h1 class="display-4 text-start">Projects</h1>
+      </div>
+    </div>
+
+    <div class="vstack gap-3">
+      {% assign project_pages = site.pages | where: "type", "project" | sort: "date" | reverse %}
+      {% for page in project_pages %}
+        {% unless page.draft %}
+          {% include projects/project-card.html page=page %}
+        {% endunless %}
+        {% if forloop.index == include.limit %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    {% assign not_draft = 0 %}
+      {% for page in project_pages %}
+      {% unless page.draft %}
+        {% assign not_draft = not_draft | plus: 1 %}
+      {% endunless %}
+    {% endfor %}
+
+    {% if not_draft > include.limit %}
+      <p class="text-center pt-4"><a href="{{ site.baseurl}}/projects/">See all {{ not_draft }} projects</a></p>
+    {% endif %}
+
+  </div>
+</div>

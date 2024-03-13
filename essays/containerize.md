@@ -11,11 +11,6 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/containerize/docker.png">
 
-# Containerizing in Software Engineering with Docker
-
-By Mohammad Saeed Khatami,
-May 26, 2023
-
 ## Introduction
 
 In recent years, containerization has become an integral part of software engineering practices. Docker, a popular containerization platform, has gained significant attention due to its ease of use and efficiency. This summary provides an overview of the key concepts, advantages, challenges, and purpose of containerizing software applications using Docker.

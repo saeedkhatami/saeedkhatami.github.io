@@ -2,18 +2,16 @@
 layout: project
 type: project
 image: img/multithread/multithread.png
-title: "OS Sim"
+title: "multi-thread"
 date: 2023
 published: true
 labels:
   - C++
   - GitHub
-summary: "OS simulations"
+summary: "multi-thread basics"
 ---
 
-<img class="img-fluid" src="../img/multithread/multithreadhead.png" alt="os-sim" />
-
-multi-thread basics
+<img class="img-fluid" src="../img/multithread/multithreadhead.png" alt="multithreaas" />
 
 Are you new to C++ and eager to dive into the world of multithreading? Our Multithreading Starter Kit is the perfect resource for you to grasp the fundamentals of working with threads and optimizing your workloads.
 

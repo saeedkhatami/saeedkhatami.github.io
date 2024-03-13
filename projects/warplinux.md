@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/randompoem/radnompoem.png
+image: img/warplinux/cloud.png
 title: "Warp Linux"
 date: 2022
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "A GUI app base on warp on Windows for linux users. "
 ---
 
-<img class="img-fluid" src="../img/randompoem/randompoenhead.png" alt="os-sim" />
+<img class="img-fluid" src="../img/warplinux/cloudhead.png" alt="os-sim" />
 
 
 A GUI app base on [warp](https://developers.cloudflare.com/warp-client/get-started/linux) on Windows for linux users.

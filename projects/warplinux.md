@@ -12,7 +12,7 @@ labels:
 summary: "A GUI app base on warp on Windows for linux users. "
 ---
 
-<img class="img-fluid" src="../img/warplinux/cloudhead.png" alt="warp cloudflare gui" />
+<img class="img-fluid" src="../img/warplinux/cloudhead.png" alt="warp cloudflare gui"/>
 
 A GUI app base on [warp](https://developers.cloudflare.com/warp-client/get-started/linux) on Windows for linux users.
 

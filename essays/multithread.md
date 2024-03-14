@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Multithreading: A Collaborative Execution Model and its Memory Management Implications"
 # All dates must be YYYY-MM-DD format!
-date: 2023-05-23
+date: 2024-03-14
 published: true
 labels:
   - Programming

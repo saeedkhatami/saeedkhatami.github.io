@@ -12,8 +12,7 @@ labels:
 summary: "A GUI app base on warp on Windows for linux users. "
 ---
 
-<img class="img-fluid" src="../img/warplinux/cloudhead.png" alt="os-sim" />
-
+<img class="img-fluid" src="../img/warplinux/cloudhead.png" alt="warp cloudflare gui" />
 
 A GUI app base on [warp](https://developers.cloudflare.com/warp-client/get-started/linux) on Windows for linux users.
 
@@ -43,6 +42,7 @@ Just remove `~/.local/share/applications/warp-gui.desktop` file.
 
 - [ ] Change the project from python to c++
 - [ ] Add auto installation
-![warp cloudflare gui](img/warplinux/todo.png)
+
+<img class="img-fluid" src="../img/warplinux/todo.png" alt="warp cloudflare gui" />
 
 Source: <a href="https://github.com/saeedkhatami/RandomPoem">saeedkhatami/RandomPoem</a>

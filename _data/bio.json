@@ -28,7 +28,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": ["Linux", "Git/GitHub", "Docker", "K8s", "Unreal Engine", "Unity Engine", "Godot Engine" ]
     }
   ],
   "education": [

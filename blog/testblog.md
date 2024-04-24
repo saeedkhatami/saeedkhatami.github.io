@@ -1,7 +1,7 @@
 ---
 layout: blog
 type: blog
-title: "TEST"
+title: "test 1"
 # All dates must be YYYY-MM-DD format!
 date: 2023-05-23
 published: true

@@ -18,10 +18,10 @@
     { "name": "Games" },
     { "name": "Operation Systems" },
     { "name": "Low Level Programming" },
+    { "name": "Data compression" },
     { "name": "Embedded Systems" },
     { "name": "DRM's & Cracking DRM's" },
-    { "name": "Anti-Cheats & Cheats" },
-    { "name": "Data compression" }
+    { "name": "Anti-Cheats & Cheats" }
   ],
   "skills": [
     {

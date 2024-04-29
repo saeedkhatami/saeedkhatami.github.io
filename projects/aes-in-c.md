@@ -2,19 +2,18 @@
 layout: project
 type: project
 image: img/aes/AES.png
-title: "Acer SenSe"
-date: 2022
+title: "AES in C"
+date: 2024
 published: true
 labels:
   - C
   - Shell
-  - Python
   - Makefile
   - GitHub
-summary: "Linux kernel module to support Turbo mode and RGB Keyboard for Acer Predator and Nitro notebook series"
+summary: "AES encryption from 0 to 100"
 ---
 
-<img class="img-fluid" src="../img/aes/AES.png" alt="keyboard" />
+<img class="img-fluid" src="../img/aes/AES.png"/>
 
 AES operates on a 4 × 4 [column-major order](https://en.wikipedia.org/wiki/Column-major_order "Column-major order") array of 16 bytes $b_0, b_1, ..., b_15$ termed the _state_:
 

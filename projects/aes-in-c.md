@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/aes/AES.png
+image: img/aes/aes.png
 title: "AES in C"
 date: 2024
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "AES encryption from 0 to 100"
 ---
 
-<img class="img-fluid" src="../img/aes/AES.png"/>
+<img class="img-fluid" src="../img/aes/aes.png"/>
 
 AES operates on a 4 × 4 [column-major order](https://en.wikipedia.org/wiki/Column-major_order "Column-major order") array of 16 bytes $b_0, b_1, ..., b_15$ termed the _state_:
 

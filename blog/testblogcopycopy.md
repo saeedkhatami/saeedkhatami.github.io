@@ -9,7 +9,7 @@ labels:
   - how to
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/containerize/docker.test">
+<img width="200px" class="rounded float-start pe-4" src="../img/test/AAAA.jpg">
 
 test
 test

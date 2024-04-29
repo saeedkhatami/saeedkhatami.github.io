@@ -3,7 +3,7 @@
     "name": "Saeed Khatami",
     "label": "Student",
     "picture": "https://github.com/saeedkhatami.png",
-    "email": "hello@saeedkhatami.com",
+    "email": "contact@saeedkhatami.com",
     "phone": "",
     "website": "https://saeedkhatami.com",
     "summary": "I am studying for a B.S. in Computer Engineering at the Iran Azad University. I expect to graduate in 2026.",
@@ -18,18 +18,34 @@
     { "name": "Games" },
     { "name": "Operation Systems" },
     { "name": "Low Level Programming" },
-    { "name": "ARM" },
-    { "name": "Anti-Cheats" },
-    { "name": "Cheats" }
+    { "name": "Embedded Systems" },
+    { "name": "DRM's & Cracking DRM's" },
+    { "name": "Anti-Cheats & Cheats" },
+    { "name": "Data compression" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++","C#", "Java", "Rust", "Assembly", "Python" ]
+      "keywords": [ "C", 
+                    "C++",
+                    "C#", 
+                    "Java", 
+                    "Rust", 
+                    "Assembly", 
+                    "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": ["Linux", "Git/GitHub", "Docker", "K8s", "Unreal Engine", "Unity Engine", "Godot Engine" ]
+      "keywords": ["Linux", 
+                    "Windows", 
+                    "Git/GitHub", 
+                    "Docker", 
+                    "K8s", 
+                    "Unreal Engine", 
+                    "Unity Engine", 
+                    "Godot Engine", 
+                    "IDA", 
+                    "Binary Ninja"]
     }
   ],
   "education": [

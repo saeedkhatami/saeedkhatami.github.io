@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: blog
-title: "HOw Advanced Encryption Standard works?"
+title: "How Advanced Encryption Standard works?"
 # All dates must be YYYY-MM-DD format!
 date: 2023-05-23
 published: true

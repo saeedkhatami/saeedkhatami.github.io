@@ -13,7 +13,7 @@ labels:
 summary: "Force Bind IP GUI WPF, reinventing Force Bind IP"
 ---
 
-<img class="img-fluid" src="../img/fbi/fbi.png"/>
+<img width="200px" class="rounded float-start pe-4" src="../img/fbi/fbi.png"/>
 
 ## FBI (Force Bind IP)
 

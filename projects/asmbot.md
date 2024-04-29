@@ -13,7 +13,7 @@ labels:
 summary: "A game which inspired by Much Assembly Required "
 ---
 
-<img class="img-fluid" src="../img/asmbot/asmbot.jpg"/>
+<img width="200px" class="rounded float-start pe-4" src="../img/asmbot/asmbot.jpg"/>
 
 ## ASMBots
 

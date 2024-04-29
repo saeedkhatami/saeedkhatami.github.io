@@ -13,7 +13,7 @@ labels:
 summary: "AES encryption from 0 to 100"
 ---
 
-<img class="img-fluid" src="../img/aes/aes.png"/>
+<img width="200px" class="rounded float-start pe-4" src="../img/aes/aes.png"/>
 
 AES operates on a 4 × 4 [column-major order](https://en.wikipedia.org/wiki/Column-major_order "Column-major order") array of 16 bytes $b_0, b_1, ..., b_15$ termed the _state_:
 

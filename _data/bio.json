@@ -66,10 +66,10 @@
       "endDate": "Present",
       "summary": "Experienced DevOps professional skilled in CI/CD, cloud technologies, and automation.",
       "highlights": [
-        "Spearheaded the implementation of CI/CD pipelines, resulting in a 30% reduction in deployment time.",
-        "Implemented robust monitoring and alerting systems, improving system reliability by 25%.",
-        "Led efforts to migrate on-premises infrastructure to the cloud, resulting in cost savings of 20%.",
-        "Automated repetitive tasks using scripting languages such as Python and Bash, reducing manual effort by 40%.",
+        "Spearheaded the implementation of CI/CD pipelines",
+        "Implemented robust monitoring and alerting systems",
+        "Led efforts to migrate on-premises infrastructure to the cloud",
+        "Automated repetitive tasks using scripting languages such as Python and Bash",
         "Orchestrated containerization using Docker for efficient deployment and scaling of applications.",
         "Implemented Kubernetes for container orchestration, enabling seamless management of containerized workloads.",
         "Collaborated cross-functionally with development and operations teams to optimize workflows and foster a culture of collaboration and continuous improvement."

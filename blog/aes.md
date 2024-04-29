@@ -7,6 +7,7 @@ date: 2023-05-23
 published: true
 labels:
   - encryption
+summary: "AES operates on a 4 × 4 array of 16 bytes, The key size used for an AES cipher specifies the number of transformation rounds that convert the input, called the plaintext, into the final output, called the ciphertext"
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/aes/aes.png">

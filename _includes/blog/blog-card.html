@@ -3,7 +3,7 @@
     <div class="card-body">
       <h5 class="card-title">{{ include.page.title }}</h5>
       <p class="card-text"><small class="text-muted">{{ include.page.date | date_to_string }}</small></p>
-      <p class="card-text">{{ include.page.content | markdownify | strip_html | truncatewords: 40 }}</p>
+      <p class="card-text">{{ include.page.summary }}</p>
       <p>
         {% for label in include.page.labels %}
         <span style="background-color: var(--tf-pill-bg)" class="badge rounded-pill">{{ label }}</span>

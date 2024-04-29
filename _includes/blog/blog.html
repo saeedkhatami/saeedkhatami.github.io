@@ -1,14 +1,14 @@
-<div style="background-color: var(--bs-white)" class="bg-gradient py-3" id="blog">
+<div style="background-color: var(--bs-white)" class="bg-gradient py-3" id="essays">
   <div class="container">
     <div class="row mb-3">
       <div class="col-md-6">
-        <h1 class="display-4 text-start">How to, blog</h1>
+        <h1 class="display-4 text-start">Blog</h1>
       </div>
     </div>
 
     <div class="row g-3">
-      {% assign blog_pages = site.pages | where: "type", "blog" | sort: "date" | reverse %}
-      {% for page in blog_pages %}
+      {% assign essay_pages = site.pages | where: "type", "blog" | sort: "date" | reverse %}
+      {% for page in essay_pages %}
         {% unless page.draft %}
           {% include blog/blog-card.html page=page %}
         {% endunless %}
@@ -19,14 +19,14 @@
     </div>
 
     {% assign not_draft = 0 %}
-      {% for page in blog_pages %}
+      {% for page in essay_pages %}
       {% unless page.draft %}
         {% assign not_draft = not_draft | plus: 1 %}
       {% endunless %}
     {% endfor %}
 
     {% if not_draft > include.limit %}
-      <p class="text-center pt-4"><a href="{{ site.baseurl}}/blog/">See all {{ not_draft }} blog</a></p>
+      <p class="text-center pt-4"><a href="{{ site.baseurl}}/blog/">See all {{ not_draft }} essays</a></p>
     {% endif %}
 
   </div>

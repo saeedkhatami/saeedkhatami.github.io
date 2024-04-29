@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/aes/aes.png
+image: img/aes/AES.png
 title: "Acer SenSe"
 date: 2022
 published: true
@@ -14,7 +14,7 @@ labels:
 summary: "Linux kernel module to support Turbo mode and RGB Keyboard for Acer Predator and Nitro notebook series"
 ---
 
-<img class="img-fluid" src="../img/aes/aes.png" alt="keyboard" />
+<img class="img-fluid" src="../img/aes/AES.png" alt="keyboard" />
 
 AES operates on a 4 × 4 [column-major order](https://en.wikipedia.org/wiki/Column-major_order "Column-major order") array of 16 bytes $b_0, b_1, ..., b_15$ termed the _state_:
 

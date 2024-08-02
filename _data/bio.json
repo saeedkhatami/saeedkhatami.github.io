@@ -18,9 +18,7 @@
     { "name": "Games" },
     { "name": "Operation Systems" },
     { "name": "Low Level Programming" },
-    { "name": "Data compression" },
-    { "name": "Embedded Systems" },
-    { "name": "DRM's & Cracking DRM's" },
+    { "name": "Games DRMs" },
     { "name": "Anti-Cheats & Cheats" }
   ],
   "skills": [
@@ -45,6 +43,7 @@
                     "Unity Engine", 
                     "Godot Engine", 
                     "IDA", 
+                    "Ghidra",
                     "Binary Ninja"]
     }
   ],

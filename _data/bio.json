@@ -16,10 +16,13 @@
   },
   "interests": [
     { "name": "Games" },
-    { "name": "Operation Systems" },
-    { "name": "Low Level Programming" },
     { "name": "Games DRMs" },
-    { "name": "Anti-Cheats & Cheats" }
+    { "name": "Game Development" },
+    { "name": "Operation Systems" },
+    { "name": "ٌWindows Internals" },
+    { "name": "Low Level Programming" },
+    { "name": "Anti-Cheats" },
+    { "name": "Cheats" }
   ],
   "skills": [
     {
@@ -27,8 +30,6 @@
       "keywords": [ "C", 
                     "C++",
                     "C#", 
-                    "Java", 
-                    "Rust", 
                     "Assembly", 
                     "Python" ]
     },
@@ -36,6 +37,7 @@
       "name": "Toolsets/OS",
       "keywords": ["Linux", 
                     "Windows", 
+                    "DuckDuckGo", 
                     "Git/GitHub", 
                     "Docker", 
                     "K8s", 
@@ -43,6 +45,7 @@
                     "Unity Engine", 
                     "Godot Engine", 
                     "IDA", 
+                    "x64 dbg", 
                     "Ghidra",
                     "Binary Ninja"]
     }

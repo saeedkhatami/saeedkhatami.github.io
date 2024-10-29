@@ -18,8 +18,9 @@
     { "name": "Games" },
     { "name": "Games DRMs" },
     { "name": "Game Development" },
-    { "name": "Operation Systems" },
+    { "name": "Memory Managment" },
     { "name": "ٌWindows Internals" },
+    { "name": "reverse Engineering" },
     { "name": "Low Level Programming" },
     { "name": "Anti-Cheats" },
     { "name": "Cheats" }
@@ -36,11 +37,7 @@
     {
       "name": "Toolsets/OS",
       "keywords": ["Linux", 
-                    "Windows", 
-                    "DuckDuckGo", 
-                    "Git/GitHub", 
-                    "Docker", 
-                    "K8s", 
+                    "Windows",  
                     "Unreal Engine", 
                     "Unity Engine", 
                     "Godot Engine", 
@@ -68,13 +65,8 @@
       "website": "",
       "startDate": "2021-10",
       "endDate": "2022-04",
-      "summary": "Interned as a Backend Developer, gaining valuable experience and knowledge in software development.",
-      "highlights": [
-        "Acquired knowledge on Application Programming Interfaces (APIs) and their integration with frontend and backend systems.",
-        "Gained proficiency in crafting APIs using Java in conjunction with the Spring Boot framework.",
-        "Collaborated with cross-functional teams to troubleshoot and resolve backend issues, enhancing product stability.",
-        "Assisted in database design and optimization, improving system performance and scalability."
-      ]
+      "summary": "Interned as a Backend Developer",
+      "highlights": []
     },
     {
       "company": "Sorin Kavosh Vira",
@@ -82,36 +74,22 @@
       "website": "",
       "startDate": "2023-06",
       "endDate": "Present",
-      "summary": "Experienced DevOps professional skilled in CI/CD, cloud technologies, and automation.",
-      "highlights": [
-        "Spearheaded the implementation of CI/CD pipelines",
-        "Implemented robust monitoring and alerting systems",
-        "Led efforts to migrate on-premises infrastructure to the cloud",
-        "Automated repetitive tasks using scripting languages such as Python and Bash",
-        "Orchestrated containerization using Docker for efficient deployment and scaling of applications.",
-        "Implemented Kubernetes for container orchestration, enabling seamless management of containerized workloads.",
-        "Collaborated cross-functionally with development and operations teams to optimize workflows and foster a culture of collaboration and continuous improvement."
-      ]
+      "summary": "Experienced DevOps professional skilled in CI/CD.",
+      "highlights": []
     },
     {
-      "company": "Morbid Mind (Game Studio)",
+      "company": "Morbid Mind (Game Studio, my own game studop)",
       "position": "Level designer and Gameplay programmer",
       "website": "",
       "startDate": "2015-01",
       "endDate": "Present",
-      "summary": "Skilled Game Developer with expertise in level design and gameplay programming, contributing to the success of Morbid Mind Game Studio.",
-      "highlights": [
-        "Designed and developed engaging game levels, focusing on immersive player experiences.",
-        "Implemented gameplay mechanics and features, enhancing overall gameplay dynamics and enjoyment.",
-        "Collaborated with team members to brainstorm and execute creative game concepts.",
-        "Conducted playtesting and iteration cycles to refine game mechanics and optimize player engagement.",
-        "Proficient in game development engines such as Unreal Engine, Unity Engine, and Godot Engine."
-      ]
+      "summary": "Skilled Game Developer with expertise in level design and gameplay programming.",
+      "highlights": []
     }
   ],
   "references": [
     {
-      "name": "Available upon request"
+      "name": ""
     }
   ]
 }
